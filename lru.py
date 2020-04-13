@@ -4,26 +4,4 @@ class lru:
         self. count = 0
         self.cache={}
         self.lr={}
-    def put(self,key,value):
-
-
-
-     def get(self,key):
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-         
+    
